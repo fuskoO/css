@@ -1,0 +1,67 @@
+body {
+    font-family: monospace;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: rgba(255, 255, 255, 0.55);
+    background-color: #312450;
+}
+
+.h1, h1 {
+    color: #ffffff;
+    font-size: 24px;
+}
+
+.text-muted {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-style: italic;
+}
+
+.page-header {
+    padding-bottom: 9px;
+    margin: 40px 0 20px;
+    border-bottom: 2px solid #3c2c62;
+}
+
+spam {
+    color: #999;
+    font-size: 25px;
+}
+
+#header .logo-holder img {
+    width: 228px;
+}
+
+img.logocdn {
+    width: 328px;
+    margin: 0px 0px 15px 0px;
+}
+
+a:focus, a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+a {
+    color: #999;
+    text-decoration: none;
+}
+
+p {
+    color: rgba(255, 255, 255, 0.35);
+    opacity: 0.8;
+}
+
+i.fa.fa-twitter-square {
+    font-size: 35px;
+}
+
+i.fa.fa-facebook-square {
+    font-size: 35px;
+    margin: 0 0 0 10px;
+}
+
+i.fa.fa-linkedin-square {
+    font-size: 35px;
+    margin: 0 0 0 10px;
+}
